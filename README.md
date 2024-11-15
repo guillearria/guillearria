@@ -1,7 +1,5 @@
 ### Howdy 👋
 
-#### Software Engineer by day and Musician by night
-
 Seeking remote roles in support engineering or Spring Boot development;<br>
 Event Planner for HQ Miami;<br>
 
