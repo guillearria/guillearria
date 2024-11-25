@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-Seeking remote roles in Support Engineering or Spring Boot Development;<br>
+Seeking remote roles in Technical Support, Customer Success, or Java Development;<br>
 Event Planner for HQ Miami;<br>
 
 - 🌱 Currently learning: `Java`, `Spring Boot`, `Portuguese`
