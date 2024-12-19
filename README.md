@@ -1,7 +1,5 @@
 ### Hello 👋
 
-Seeking remote roles in Technical Support, Customer Success, or API Engineering;<br>
-
-- 🔨 Current Stack: `React` , `Python`, `FastAPI`
-- ☁️ Cloud Expertise: `Microsoft Azure (Data Factory, Databricks, Data Lake Storage, DevOps)`
-- 🌱 Connect with me via [LinkedIn](https://www.linkedin.com/in/guillearria/)
+🔨 Currently building the next generation of AI agents;<br>
+☁️ Open to work, looking for remote or Miami-based roles in Prompt/LLM Engineering or MLOps;<br>
+🌱 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillearria/);
