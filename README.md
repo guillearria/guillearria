@@ -1,5 +1,5 @@
-### Hello 👋
+### Welcome! 👋
 
-🔨 Currently building AI-powered apps;<br>
-☁️ Open to work, looking for remote or Miami-based roles in LLM Engineering or MLOps;<br>
+☁️ Generalist software engineer with expertise across the full-stack;<br>
+🔨 Currently leveraging AI to build scalable apps;<br>
 🌱 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillearria/);
