@@ -32,8 +32,7 @@ Data:          PostgreSQL, MongoDB
 ![Guillermo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillearria&show_icons=true&theme=dark)
 
 ### 🤝 Let's Connect
+[![Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)](https://huggingface.co/guillearria)<br>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillearria/)<br>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillearria/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/guillearria)
-
-💡 *Always exploring new technologies and looking to collaborate on cool projects!*
+💡 *Always exploring new technologies and looking to collaborate on projects!*
