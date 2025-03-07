@@ -1,30 +1,25 @@
-# Hi there, I'm Guillermo 👋
+# Guillermo Arria-Devoe 🌐
 
-### Full-Stack Engineer | AI Enthusiast | Technical Writer
+### Software Engineering | LLMs | Writing
 
-I craft scalable applications and intelligent systems at the intersection of web development, data engineering, and artificial intelligence.
-
-### 🛠️ What I Do
-
-- **Web Development**: Building robust, scalable web applications with modern frameworks
-- **Data Engineering**: Designing data pipelines and ETL processes that handle complex workflows
-- **AI Engineering**: Developing and deploying LLM integrations and AI agents
+I craft scalable applications and intelligent systems at the intersection of web development and artificial intelligence.
 
 ### 🔭 Current Focus
 
-- Writing about AI Agents and practical applications at [VerticalAgentSolutions.com](https://verticalagentsolutions.com/)
+- Prototyping quick and learning daily
 - Exploring the latest developments in LLMs and autonomous agents
-- Building tools that make AI more accessible to developers
+- Writing about AI Agents at [VerticalAgentSolutions.com](https://verticalagentsolutions.com/)
 
-### 💻 Tech Stack
+### 💻 Skills
 
 ```text
-Languages:     Python, JavaScript, TypeScript, SQL
-Frontend:      React, Next.js, Tailwind CSS
-Backend:       Node.js, FastAPI, Django
-Cloud:         AWS, Azure, Docker
-AI/ML:         Cursor, Claude 3.5 Sonnet, ChatGPT, Smolagents
-Data:          PostgreSQL, MongoDB
+Languages:     Python, JavaScript, TypeScript, SQL, HTML, CSS
+Frontend:      React, React Native, Streamlit, Gradio
+Backend:       FastAPI, Django
+Cloud:         AWS, Microsoft Azure, Docker
+AI/ML:         Cursor, Claude Sonnet, ChatGPT, Grok, Hugging Face (Transformers, smolagents)
+Data:          SQLite, PostgreSQL, MongoDB
+Other:         WordPress, Research, Writing 
 ```
 
 ### 📈 Stats
@@ -34,5 +29,3 @@ Data:          PostgreSQL, MongoDB
 ### 🤝 Let's Connect
 [![Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)](https://huggingface.co/guillearria)<br>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillearria/)<br>
-
-💡 *Always exploring new technologies and looking to collaborate on projects!*
