@@ -25,7 +25,3 @@ Other:         WordPress, Research, Writing
 ### 📈 Stats
 
 ![Guillermo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillearria&show_icons=true&theme=dark)
-
-### 🤝 Let's Connect
-[![Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)](https://huggingface.co/guillearria)<br>
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillearria/)<br>
