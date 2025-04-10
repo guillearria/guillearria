@@ -1,5 +1,7 @@
-# Guillermo Arria-Devoe 🌐
+# Hi, I'm Guillermo Arria-Devoe 🌐
 
-### Software Engineering | LLMs | Research
+### Software Engineer | AI & LLM Specialist | Musician
 
-I craft scalable applications at the intersection of web development and artificial intelligence.
+I craft scalable software at the intersection of web development and artificial intelligence.
+
+📌 **Check out my pinned projects below to explore my recent work.**
