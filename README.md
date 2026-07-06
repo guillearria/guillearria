@@ -23,7 +23,7 @@ _Updated 2026-07-06 by [an automated pipeline](https://github.com/guillearria/gu
 
 - 📝 Latest published guide: [Missed Calls and Declined Repairs: What an AI Agent Fixes at an Auto Shop](https://vertical-agent-solutions.pages.dev/blog/ai-agents-for-auto-repair-shops-where-they/)
 - 🌍 Global Observatory data last refreshed: **today**
-- 🔨 Recently pushed: `global-observatory`
+- 🔨 Recently pushed: `guillearria`, `global-observatory`
 <!-- HQ:END -->
 
 ## Reach me
