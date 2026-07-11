@@ -6,6 +6,11 @@ I build AI systems that keep working when I'm not at the keyboard: agents that r
 fact-check, and publish on their own — with automated safety checks in code and a human
 sign-off wherever it matters.
 
+🎯 **Open to remote AI/LLM engineering and forward-deployed roles** — US, Eastern time.
+
+🛠️ Python · TypeScript/React · Astro · GitHub Actions · Claude & agent systems ·
+verification-gated pipelines
+
 ## Live systems
 
 - 🌍 **[Global Observatory](https://guillearria.github.io/global-observatory/)** — a
@@ -29,6 +34,11 @@ _Updated 2026-07-06 by [an automated pipeline](https://github.com/guillearria/gu
 - 🔨 Recently pushed: `guillearria`, `global-observatory`
 <!-- HQ:END -->
 
-## Reach me
+## Hire me
+
+I take remote engineering roles and select consulting engagements building autonomous,
+verification-gated AI systems.
 
 📫 guillermo.arriadevoe@gmail.com
+<!-- TODO: add LinkedIn link once live — copy in hq/jobs/applications/linkedin-profile.md -->
+
