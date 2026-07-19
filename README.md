@@ -27,10 +27,10 @@ verification-gated pipelines
   regularly.
 
 <!-- HQ:START -->
-_Updated 2026-07-12 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-07-19 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
 - 📝 Latest published guide: [A Spring Week at a Pest Control Company: What the AI Booking Agent Caught and What It Passed to a Human](https://vertical-agent-solutions.pages.dev/blog/a-spring-week-at-a-pest-control-company-what-the/)
-- 🌍 Global Observatory data last refreshed: **today**
+- 🌍 Global Observatory data last refreshed: **2 days ago**
 - 🔨 Recently pushed: `vertical-agent-solutions`, `global-observatory`, `guillearria`
 <!-- HQ:END -->
 
