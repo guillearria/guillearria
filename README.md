@@ -27,11 +27,11 @@ verification-gated pipelines
   regularly.
 
 <!-- HQ:START -->
-_Updated 2026-07-26 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-02 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [A Moving Company's FAQ on AI Phone Agents: Quotes, Surveys, and Deposits](https://vertical-agent-solutions.pages.dev/blog/a-moving-companys-faq-on-ai-phone-agents-quotes/)
+- 📝 Latest published guide: [40 Caregivers, 60 Clients, One Bad Monday — Where a Home Care Agency Let AI Run Scheduling](https://vertical-agent-solutions.pages.dev/blog/40-caregivers-60-clients-one-bad-monday-where-a/)
 - 🌍 Global Observatory data last refreshed: **today**
-- 🔨 Recently pushed: `vertical-agent-solutions`, `global-observatory`, `guillearria`
+- 🔨 Recently pushed: `global-observatory`
 <!-- HQ:END -->
 
 ## Hire me
