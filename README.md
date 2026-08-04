@@ -1,44 +1,36 @@
 # Guillermo Arria-Devoe
 
-**Software Engineer | AI & LLM Systems | Musician**
+Software engineer working on AI/LLM systems. Also a musician.
 
-I build AI systems that keep working when I'm not at the keyboard: agents that research,
-fact-check, and publish on their own — with automated safety checks in code and a human
-sign-off wherever it matters.
+I build agents that run on a schedule without supervision. The design rule behind
+all of them: the model does the work, but deterministic code decides what ships.
 
-🎯 **Open to remote AI/LLM engineering and forward-deployed roles** — US, Eastern time.
+**Looking for remote AI/LLM engineering or forward-deployed roles.** US-based, Eastern time.
 
-🛠️ Python · TypeScript/React · Astro · GitHub Actions · Claude & agent systems ·
-verification-gated pipelines
+Python · TypeScript/React · Astro · GitHub Actions · Claude/LLM agents
 
-## Live systems
+## Projects
 
-- 🌍 **[Global Observatory](https://guillearria.github.io/global-observatory/)** — a
-  public dashboard of world events. Every fact is verified against a list of trusted
-  sources by plain code before it goes live; the AI never gets the final say on truth.
-  Refreshes itself daily.
-- 📝 **[Vertical Agent Solutions](https://vertical-agent-solutions.pages.dev/)** — practical
-  guides to adopting AI agents, industry by industry. Researched, written, and published
-  every day by an autonomous editor I built, with quality checks enforced in code and
-  one-tap rollback.
-- 🔒 Private systems: an engine that discovers and stress-tests niche software ideas, one
-  that tests trading signals against real market outcomes, and a control layer that
-  monitors all of it daily and reports to my phone. Lessons from these get published
-  regularly.
+- **Global Observatory** — a public dashboard of world events, refreshed daily by
+  cloud agents. A fact only goes live after plain-Python checks against a list of
+  trusted sources. [Site](https://guillearria.github.io/global-observatory/) ·
+  [Code](https://github.com/guillearria/global-observatory)
+- **Vertical Agent Solutions** — guides to adopting AI agents, researched and
+  published daily by an autonomous editor built on GitHub Actions, with quality
+  checks in code and one-tap rollback. The pipeline is the interesting part; the
+  posts are its output. [Site](https://vertical-agent-solutions.pages.dev/) ·
+  [Code](https://github.com/guillearria/vertical-agent-solutions)
+- Two private systems: one tests trading signals against real market outcomes,
+  and a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
-_Updated 2026-08-02 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-04 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [40 Caregivers, 60 Clients, One Bad Monday — Where a Home Care Agency Let AI Run Scheduling](https://vertical-agent-solutions.pages.dev/blog/40-caregivers-60-clients-one-bad-monday-where-a/)
+- 📝 Latest published guide: [11 Questions Equipment Rental Yards Ask Before Handing the Phone to an AI Agent](https://vertical-agent-solutions.pages.dev/blog/11-questions-equipment-rental-yards-ask-before/)
 - 🌍 Global Observatory data last refreshed: **today**
 - 🔨 Recently pushed: `global-observatory`
 <!-- HQ:END -->
 
-## Hire me
+## Contact
 
-I take remote engineering roles and select consulting engagements building autonomous,
-verification-gated AI systems.
-
-📫 guillermo.arriadevoe@gmail.com
-<!-- TODO: add LinkedIn link once live — copy in hq/jobs/applications/linkedin-profile.md -->
-
+guillermo.arriadevoe@gmail.com
