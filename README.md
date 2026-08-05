@@ -26,8 +26,9 @@ GitHub Actions around them.
 <!-- HQ:START -->
 _Updated 2026-08-05 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
+- 📝 Latest published guide: [Your Title Agency's Five Objections to AI Agents, Ranked From Legitimate to Overblown](https://vertical-agent-solutions.pages.dev/blog/your-title-agencys-five-objections-to-ai-agents/)
 - 🌍 Global Observatory data last refreshed: **today**
-- 🔨 Recently pushed: `vertical-agent-solutions`, `guillearria`, `global-observatory`
+- 🔨 Recently pushed: `guillearria`, `vertical-agent-solutions`, `global-observatory`
 <!-- HQ:END -->
 
 ## Contact

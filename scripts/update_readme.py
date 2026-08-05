@@ -10,6 +10,7 @@ import json
 import re
 import urllib.request
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.etree import ElementTree
 
@@ -25,8 +26,15 @@ def fetch(url):
 
 def latest_vas_post():
     rss = ElementTree.fromstring(fetch("https://vertical-agent-solutions.pages.dev/rss.xml"))
-    item = rss.find("./channel/item")
-    return item.findtext("title"), item.findtext("link")
+    items = rss.findall("./channel/item")
+    # The feed's item order is alphabetical by slug, not chronological — sort by pubDate.
+    def when(item):
+        try:
+            return parsedate_to_datetime(item.findtext("pubDate"))
+        except Exception:
+            return datetime.min.replace(tzinfo=timezone.utc)
+    latest = max(items, key=when)
+    return latest.findtext("title"), latest.findtext("link")
 
 
 def observatory_freshness():
@@ -47,6 +55,7 @@ def recent_activity():
 
 
 def main():
+    text = README.read_text()
     lines = [
         f"_Updated {datetime.now(timezone.utc).strftime('%Y-%m-%d')} by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_",
         "",
@@ -55,7 +64,11 @@ def main():
         title, link = latest_vas_post()
         lines.append(f"- 📝 Latest published guide: [{title}]({link})")
     except Exception:
-        pass
+        # Feed hiccup: keep the previous guide line rather than silently dropping it.
+        # (The freshness lines below stay drop-on-failure — a stale "today" would lie.)
+        prev = re.search(r"^- 📝 .+$", text, flags=re.M)
+        if prev:
+            lines.append(prev.group(0))
     try:
         lines.append(f"- 🌍 Global Observatory data last refreshed: **{observatory_freshness()}**")
     except Exception:
@@ -67,7 +80,6 @@ def main():
     except Exception:
         pass
 
-    text = README.read_text()
     block = f"{START}\n{lines[0]}\n" + "\n".join(lines[1:]) + f"\n{END}"
     new = re.sub(re.escape(START) + r".*?" + re.escape(END), block, text, flags=re.S)
     if new != text:
