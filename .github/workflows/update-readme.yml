@@ -1,8 +1,8 @@
-# Weekly refresh of the auto-updated README block. Pure python, zero LLM cost.
+# Daily refresh of the auto-updated README block. Pure python, zero LLM cost.
 name: update-readme
 on:
   schedule:
-    - cron: "0 14 * * 0"
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,6 +21,6 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "readme: weekly auto-update"
+            git commit -m "readme: daily auto-update"
             git push
           fi
