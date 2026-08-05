@@ -26,9 +26,8 @@ GitHub Actions around them.
 <!-- HQ:START -->
 _Updated 2026-08-05 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [11 Questions Equipment Rental Yards Ask Before Handing the Phone to an AI Agent](https://vertical-agent-solutions.pages.dev/blog/11-questions-equipment-rental-yards-ask-before/)
 - 🌍 Global Observatory data last refreshed: **today**
-- 🔨 Recently pushed: `global-observatory`, `guillearria`
+- 🔨 Recently pushed: `vertical-agent-solutions`, `guillearria`, `global-observatory`
 <!-- HQ:END -->
 
 ## Contact

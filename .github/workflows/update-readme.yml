@@ -2,7 +2,7 @@
 name: update-readme
 on:
   schedule:
-    - cron: "0 14 * * *"
+    - cron: "0 18 * * *"   # after VAS's daily publish (~15:30 UTC actual) and HQ's 17:00 gather
   workflow_dispatch:
 
 permissions:
