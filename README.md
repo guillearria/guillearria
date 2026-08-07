@@ -24,9 +24,9 @@ GitHub Actions around them.
   another is a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
-_Updated 2026-08-06 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-07 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Your Title Agency's Five Objections to AI Agents, Ranked From Legitimate to Overblown](https://vertical-agent-solutions.pages.dev/blog/your-title-agencys-five-objections-to-ai-agents/)
+- 📝 Latest published guide: [Checklist: What an AI Receptionist Can and Can't Handle at a Therapy Practice](https://vertical-agent-solutions.pages.dev/blog/checklist-what-an-ai-receptionist-can-and-cant/)
 - 🌍 Global Observatory data last refreshed: **today**
 - 🔨 Recently pushed: `global-observatory`, `vertical-agent-solutions`, `guillearria`
 <!-- HQ:END -->
