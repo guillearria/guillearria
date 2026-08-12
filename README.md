@@ -24,9 +24,9 @@ GitHub Actions around them.
   another is a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
-_Updated 2026-08-11 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-12 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [When 187 Calls Hit a 12-Van NEMT Dispatch Board, the AI Agent Answered First](https://vertical-agent-solutions.pages.dev/blog/when-187-calls-hit-a-12-van-nemt-dispatch-board/)
+- 📝 Latest published guide: [Adult Children Won't Talk to a Bot, and Four Other Assisted Living Myths About AI Phone Agents](https://vertical-agent-solutions.pages.dev/blog/adult-children-wont-talk-to-a-bot-and-four-other/)
 - 🌍 Global Observatory data last refreshed: **today**
 - 🔨 Recently pushed: `global-observatory`, `vertical-agent-solutions`, `guillearria`
 <!-- HQ:END -->
