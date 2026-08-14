@@ -24,9 +24,9 @@ GitHub Actions around them.
   another is a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
-_Updated 2026-08-13 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-14 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [The Overnight Phone at a 6-Truck Towing Company, Priced Three Ways](https://vertical-agent-solutions.pages.dev/blog/the-overnight-phone-at-a-6-truck-towing-company/)
+- 📝 Latest published guide: [Sorting Which Loan-Inquiry Tasks a Mortgage Brokerage Can Hand an AI Agent](https://vertical-agent-solutions.pages.dev/blog/sorting-which-loan-inquiry-tasks-a-mortgage/)
 - 🌍 Global Observatory data last refreshed: **today**
 - 🔨 Recently pushed: `global-observatory`, `vertical-agent-solutions`, `guillearria`
 <!-- HQ:END -->
