@@ -24,11 +24,11 @@ GitHub Actions around them.
   another is a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
-_Updated 2026-08-15 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-16 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Put an AI Agent on Fire Inspection Scheduling Before It Ever Answers an Alarm Call](https://vertical-agent-solutions.pages.dev/blog/put-an-ai-agent-on-fire-inspection-scheduling/)
+- 📝 Latest published guide: [AI Answering Service Pricing for HVAC Shops: The Whole Stack, Not Just the Per-Minute Rate](https://vertical-agent-solutions.pages.dev/blog/ai-answering-service-pricing-for-hvac-shops-the/)
 - 🌍 Global Observatory data last refreshed: **today**
-- 🔨 Recently pushed: `global-observatory`, `vertical-agent-solutions`
+- 🔨 Recently pushed: `forward-ledger`, `swing-lab`, `global-observatory`
 <!-- HQ:END -->
 
 ## Contact
