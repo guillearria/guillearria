@@ -20,8 +20,13 @@ GitHub Actions around them.
   that researches, writes, and publishes guides to adopting AI agents daily,
   with quality gates in plain code. [Site](https://vertical-agent-solutions.pages.dev/) ·
   [Code](https://github.com/guillearria/vertical-agent-solutions)
-- A few private systems: one tests trading signals against real market outcomes;
-  another is a small control layer that rebuilds a portfolio dashboard daily.
+- **swing-lab** — a trade-signal research log run in public. An LLM pre-registers
+  falsifiable market calls before the outcome; deterministic code settles and scores
+  every one against its benchmark, wins and losses alike, so the record can't be
+  cherry-picked. Not investment advice.
+  [Live scoreboard](https://guillearria.github.io/swing-lab/) ·
+  [Code](https://github.com/guillearria/swing-lab)
+- One private system: a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
 _Updated 2026-08-18 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
