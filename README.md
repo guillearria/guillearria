@@ -24,9 +24,9 @@ GitHub Actions around them.
   another is a small control layer that rebuilds a portfolio dashboard daily.
 
 <!-- HQ:START -->
-_Updated 2026-08-17 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-18 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [AI Phone Agent for Pool Service Companies: A Heat-Wave Monday Walkthrough](https://vertical-agent-solutions.pages.dev/blog/ai-phone-agent-for-pool-service-companies-a-heat/)
+- 📝 Latest published guide: [From First Call to PTO: What AI Phone Agents Handle at a Residential Solar Company](https://vertical-agent-solutions.pages.dev/blog/from-first-call-to-pto-what-ai-phone-agents-handle/)
 - 🌍 Global Observatory data last refreshed: **today**
 - 🔨 Recently pushed: `swing-lab`, `forward-ledger`, `global-observatory`
 <!-- HQ:END -->
