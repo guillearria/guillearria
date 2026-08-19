@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 """Refresh the auto-updated block in README.md between the HQ markers. Stdlib only.
 
-Sources (all public, no auth): the VAS blog RSS feed, the Global Observatory data
-freshness stamp, and recent public GitHub activity. Deterministic and idempotent —
+Source (public, no auth): the VAS blog RSS feed. Deterministic and idempotent —
 safe to run any time; exits 0 with no write if nothing changed.
 """
 
-import json
 import re
 import urllib.request
 from datetime import datetime, timezone
@@ -16,6 +14,9 @@ from xml.etree import ElementTree
 
 README = Path(__file__).resolve().parents[1] / "README.md"
 START, END = "<!-- HQ:START -->", "<!-- HQ:END -->"
+
+# Placeholder until swing-lab's X pulse goes live; then this line points at the latest post.
+PULSE_LINE = "- 📈 Latest Swing Lab pulse: coming soon on X"
 
 
 def fetch(url):
@@ -37,23 +38,6 @@ def latest_vas_post():
     return latest.findtext("title"), latest.findtext("link")
 
 
-def observatory_freshness():
-    data = json.loads(fetch("https://guillearria.github.io/global-observatory/data/events.json"))
-    stamp = datetime.fromisoformat(data["last_updated"].replace("Z", "+00:00"))
-    days = (datetime.now(timezone.utc) - stamp).days
-    return "today" if days == 0 else ("yesterday" if days == 1 else f"{days} days ago")
-
-
-def recent_activity():
-    events = json.loads(fetch("https://api.github.com/users/guillearria/events/public"))
-    repos = []
-    for e in events:
-        name = e.get("repo", {}).get("name", "").split("/")[-1]
-        if e.get("type") == "PushEvent" and name and name not in repos:
-            repos.append(name)
-    return repos[:3]
-
-
 def main():
     text = README.read_text()
     lines = [
@@ -65,20 +49,10 @@ def main():
         lines.append(f"- 📝 Latest published guide: [{title}]({link})")
     except Exception:
         # Feed hiccup: keep the previous guide line rather than silently dropping it.
-        # (The freshness lines below stay drop-on-failure — a stale "today" would lie.)
         prev = re.search(r"^- 📝 .+$", text, flags=re.M)
         if prev:
             lines.append(prev.group(0))
-    try:
-        lines.append(f"- 🌍 Global Observatory data last refreshed: **{observatory_freshness()}**")
-    except Exception:
-        pass
-    try:
-        repos = recent_activity()
-        if repos:
-            lines.append(f"- 🔨 Recently pushed: {', '.join(f'`{r}`' for r in repos)}")
-    except Exception:
-        pass
+    lines.append(PULSE_LINE)
 
     block = f"{START}\n{lines[0]}\n" + "\n".join(lines[1:]) + f"\n{END}"
     new = re.sub(re.escape(START) + r".*?" + re.escape(END), block, text, flags=re.S)
