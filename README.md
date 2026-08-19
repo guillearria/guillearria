@@ -28,7 +28,7 @@ and deterministic checks on anything they publish.
 <!-- HQ:START -->
 _Updated 2026-08-19 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [From First Call to PTO: What AI Phone Agents Handle at a Residential Solar Company](https://vertical-agent-solutions.pages.dev/blog/from-first-call-to-pto-what-ai-phone-agents-handle/)
+- 📝 Latest published guide: [Security Guard Companies Are Half Right to Fear AI Phone Agents](https://vertical-agent-solutions.pages.dev/blog/security-guard-companies-are-half-right-to-fear-ai/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
