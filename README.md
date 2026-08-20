@@ -26,9 +26,9 @@ and deterministic checks on anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-08-19 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-20 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Security Guard Companies Are Half Right to Fear AI Phone Agents](https://vertical-agent-solutions.pages.dev/blog/security-guard-companies-are-half-right-to-fear-ai/)
+- 📝 Latest published guide: [Plan-of-Care Dropoff in Physical Therapy: AI Agent vs. Coordinator vs. EMR Recalls](https://vertical-agent-solutions.pages.dev/blog/plan-of-care-dropoff-in-physical-therapy-ai-agent/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
