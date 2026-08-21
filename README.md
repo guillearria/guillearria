@@ -26,9 +26,9 @@ and deterministic checks on anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-08-20 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-21 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Plan-of-Care Dropoff in Physical Therapy: AI Agent vs. Coordinator vs. EMR Recalls](https://vertical-agent-solutions.pages.dev/blog/plan-of-care-dropoff-in-physical-therapy-ai-agent/)
+- 📝 Latest published guide: [An AI Agent Can Book Your Trade School's Campus Tours. It Cannot Answer FAFSA Questions.](https://vertical-agent-solutions.pages.dev/blog/an-ai-agent-can-book-your-trade-schools-campus/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
