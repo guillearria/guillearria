@@ -26,9 +26,9 @@ and deterministic checks on anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-08-22 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-23 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Setting Up an AI Phone Agent for the Homeowner Calls Flooding Your HOA Management Office](https://vertical-agent-solutions.pages.dev/blog/setting-up-an-ai-phone-agent-for-the-homeowner/)
+- 📝 Latest published guide: [Why a Marina Should Price Its AI Phone Agent by the Year, Not the Month](https://vertical-agent-solutions.pages.dev/blog/why-a-marina-should-price-its-ai-phone-agent-by/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
