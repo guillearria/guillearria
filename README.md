@@ -26,7 +26,7 @@ and deterministic checks on anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-08-25 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-26 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
 - 📝 Latest published guide: [Quote the Corporate Lunches, Route the Weddings: Catering Owners Ask About AI Inquiry Agents](https://vertical-agent-solutions.pages.dev/blog/quote-the-corporate-lunches-route-the-weddings/)
 - 📈 Latest Swing Lab pulse: coming soon on X
