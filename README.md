@@ -1,10 +1,9 @@
 # Guillermo Arria-Devoe
 
-Software engineer working on AI/LLM systems. I design and supervise a small
-fleet of scheduled cloud agents, with Python and GitHub Actions around them
-and deterministic checks on anything they publish.
+Software engineer working on LLM systems. I currently manage a nimble
+fleet of cloud agents with verification checks around anything they publish.
 
-**Looking for remote AI/LLM engineering or forward-deployed roles.** US-based.
+**Looking to collaborate on forward-deployed projects.** US-based.
 
 ## Projects
 
