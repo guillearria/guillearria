@@ -3,7 +3,7 @@
 Software engineer working on LLM systems. I currently manage a nimble
 fleet of cloud agents with verification checks around anything they publish.
 
-**Looking to collaborate on forward-deployed projects.** US-based.
+**Looking for remote engineering or forward-deployed role.** US-based.
 
 ## Projects
 
