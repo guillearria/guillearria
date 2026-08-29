@@ -27,7 +27,7 @@ fleet of cloud agents with verification checks around anything they publish.
 <!-- HQ:START -->
 _Updated 2026-08-29 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [CPAP and DME Resupply Outreach, Compared: AI Agent, Resupply Software, or a Coordinator on Payroll](https://vertical-agent-solutions.pages.dev/blog/cpap-and-dme-resupply-outreach-compared-ai-agent/)
+- 📝 Latest published guide: [AI Phone Agents at Roll-Off Dumpster Companies: Sort Your Call Types Before You Launch](https://vertical-agent-solutions.pages.dev/blog/ai-phone-agents-at-roll-off-dumpster-companies/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
