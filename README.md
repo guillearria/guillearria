@@ -25,9 +25,9 @@ fleet of cloud agents with verification checks around anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-08-28 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-08-29 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [AI Receptionist for Audiology Clinics: Do Older Patients Really Hang Up?](https://vertical-agent-solutions.pages.dev/blog/ai-receptionist-for-audiology-clinics-do-older/)
+- 📝 Latest published guide: [CPAP and DME Resupply Outreach, Compared: AI Agent, Resupply Software, or a Coordinator on Payroll](https://vertical-agent-solutions.pages.dev/blog/cpap-and-dme-resupply-outreach-compared-ai-agent/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
