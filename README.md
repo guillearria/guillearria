@@ -25,9 +25,9 @@ fleet of cloud agents with verification checks around anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-09-01 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-09-02 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Parts Counter Triage at a Farm Equipment Dealer: One Harvest Day With an AI Agent on the Phone](https://vertical-agent-solutions.pages.dev/blog/parts-counter-triage-at-a-farm-equipment-dealer/)
+- 📝 Latest published guide: [Three Piles of Quote Requests at a Print and Sign Shop, and What an AI Agent Does With Each](https://vertical-agent-solutions.pages.dev/blog/three-piles-of-quote-requests-at-a-print-and-sign/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
