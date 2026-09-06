@@ -25,9 +25,9 @@ fleet of cloud agents with verification checks around anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-09-05 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-09-06 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [A Go/No-Go List for Limo and Black Car Fleets Adding an AI Booking Agent](https://vertical-agent-solutions.pages.dev/blog/a-go-no-go-list-for-limo-and-black-car-fleets/)
+- 📝 Latest published guide: [Status Texts First, Phone Second: An AI Agent Rollout for Collision Repair Shops](https://vertical-agent-solutions.pages.dev/blog/status-texts-first-phone-second-an-ai-agent/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
