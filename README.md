@@ -25,9 +25,9 @@ fleet of cloud agents with verification checks around anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-09-11 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-09-12 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Travel Advisors Worry an AI Agent Will Cost Them Clients. Five Beliefs, Checked.](https://vertical-agent-solutions.pages.dev/blog/travel-advisors-worry-an-ai-agent-will-cost-them/)
+- 📝 Latest published guide: [What Voice AI, Live Operators, and a Booking Widget Each Do With 80 Appliance Repair Calls a Day](https://vertical-agent-solutions.pages.dev/blog/what-voice-ai-live-operators-and-a-booking-widget/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
