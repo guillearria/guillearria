@@ -25,9 +25,9 @@ fleet of cloud agents with verification checks around anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-09-17 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-09-18 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Inside a Dry Cleaner's Monday Phone Log: Route Changes the AI Agent Closed, Claims It Handed Off](https://vertical-agent-solutions.pages.dev/blog/inside-a-dry-cleaners-monday-phone-log-route/)
+- 📝 Latest published guide: [Tattoo Shop FAQ: AI Booking Agents, Deposits, and Per-Artist Consult Calendars](https://vertical-agent-solutions.pages.dev/blog/tattoo-shop-faq-ai-booking-agents-deposits-and-per/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
