@@ -25,9 +25,9 @@ fleet of cloud agents with verification checks around anything they publish.
   the garden.
 
 <!-- HQ:START -->
-_Updated 2026-09-28 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
+_Updated 2026-09-29 by [an automated pipeline](https://github.com/guillearria/guillearria/blob/main/scripts/update_readme.py):_
 
-- 📝 Latest published guide: [Unlimited Car Wash Membership Cancellations and Billing Calls: An AI Phone Agent Checklist](https://vertical-agent-solutions.pages.dev/blog/unlimited-car-wash-membership-cancellations-and/)
+- 📝 Latest published guide: [RV Park AI Phone Agent Setup, Step by Step, for Parks With 50 to 300 Sites](https://vertical-agent-solutions.pages.dev/blog/rv-park-ai-phone-agent-setup-step-by-step-for/)
 - 📈 Latest Swing Lab pulse: coming soon on X
 <!-- HQ:END -->
 
